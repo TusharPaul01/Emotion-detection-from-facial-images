@@ -1,6 +1,6 @@
 # Emotion-detection-from-facial-images
 
-**Image Classification with TensorFlow/Keras**
+**Image Classification with TensorFlow/Keras** : 
 This repository contains code for training a deep learning model for image classification using TensorFlow and Keras.
 
 Overview
